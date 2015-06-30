@@ -1,0 +1,15 @@
+h1 {
+    color:firebricks;
+}
+
+tr {
+    background-color: blue;
+    height:100px;
+    width: 100px;
+}
+
+td {
+     background-color: blue;
+    height:100px;
+    width: 100px;   
+}
